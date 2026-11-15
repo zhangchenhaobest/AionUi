@@ -1,3 +1,29 @@
+# AionUi
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源 7×24 小时 Cowork 应用，支持 OpenClaw、Hermes、Claude Code、Codex 等 20+ CLI Agent，可定制并组队协作。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <img src="./resources/aionui-banner-1.png" alt="AionUi - Cowork with AI Agents" width="100%">
 </p>
